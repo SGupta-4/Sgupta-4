@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66e5c06ef34c8868ec3e86f8?variant=dark" alt="roadmap.sh"/></a>
 <!--
 **SGupta-4/Sgupta-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
